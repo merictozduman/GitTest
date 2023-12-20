@@ -1,0 +1,11 @@
+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
+
+https://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@github.com/merictozduman/GitTest.git
+
+
+1- Use My Account → Settings → Developer settings → Personal access tokens → Generate new token.
+
+git remote set-url origin https://<token>@github.com/<username>/<repo>
+
+2- git remote set-url origin https://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@github.com/merictozduman/GitTest.git
+
